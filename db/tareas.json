@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "lavar la ropa",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "terminar el tp",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "curso de ingles técnico",
+        "estado": "pendiente"
+    }
+]
